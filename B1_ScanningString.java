@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class B1_ScanningString {
 
 	public static void main(String[] args) {
-		String source = "1 3 5";
+		String source = "홍 길 동 ";
 		//스트링 데이터 읽기
 		Scanner sc = new Scanner(source);
 		
